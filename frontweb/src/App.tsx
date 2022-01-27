@@ -1,9 +1,11 @@
+import './assets/styles/custom.scss';
 import "./App.css";
+import Home from 'components/Home';
 
 function App() {
   return (
     <div>
-      <h1> Carros Top</h1>
+      <Home />
     </div>
   );
 }
