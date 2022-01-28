@@ -47,6 +47,7 @@
   text-align: center;
   width: 300px;
   font-size: 18px;
+  line-height: 16px;
 }
 
 @media (min-width: 576px) {
